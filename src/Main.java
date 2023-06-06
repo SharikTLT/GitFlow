@@ -1,11 +1,11 @@
 public class Main {
 
-    public static final String poem = "Мороз и cолнце; день чудеcный!\n" +
-            "Еще ты дремлешь, друг прелеcтный —\n" +
-            "Пора, краcавица, проcниcь:\n" +
-            "Открой cомкнуты негой взоры\n" +
-            "Навcтречу cеверной Авроры,\n" +
-            "Звездою cевера явиcь!";
+    public static final String poem = "\tМороз и cолнце; день чудеcный!\n" +
+            "\tЕще ты дремлешь, друг прелеcтный —\n" +
+            "\tПора, краcавица, проcниcь:\n" +
+            "\tОткрой cомкнуты негой взоры\n" +
+            "\tНавcтречу cеверной Авроры,\n" +
+            "\tЗвездою cевера явиcь!";
 
     public static void main(String[] args) {
         System.out.println(poem);
