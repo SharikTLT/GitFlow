@@ -9,5 +9,6 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println(poem);
+        System.out.println("А.С.Пушкин");
     }
 }
