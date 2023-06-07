@@ -9,7 +9,10 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println(poem);
+        System.out.println("-------------");
         System.out.println("А.С.Пушкин");
+        System.out.println("-------------");
         System.out.println("1829 год");
+        System.out.println("-------------");
     }
 }
